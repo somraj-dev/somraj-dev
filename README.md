@@ -1,4 +1,4 @@
-# GitHub Profile README
+# Somraj Lodhi 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=220&section=header&text=Somraj%20Lodhi&fontSize=42&animation=twinkling&fontColor=ffffff&desc=AI/ML%20Student%20%7C%20Quantitative%20Engineer)
 
